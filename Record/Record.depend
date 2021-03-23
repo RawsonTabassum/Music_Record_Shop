@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1550313719 source:h:\codes\project l-1 t-2\record\main.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	<fstream>
+	"Record.h"
+
+1550374638 h:\codes\project l-1 t-2\record\record.h
+
+1550374930 source:h:\codes\project l-1 t-2\record\record.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	<fstream>
+	"Record.h"
+	<cstdlib>
+
